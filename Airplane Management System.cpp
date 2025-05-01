@@ -331,6 +331,7 @@ void addFlight() {
     cout << "Flight added successfully using " << plane->model << "!\n";
 }
 
+S
 
 
 // ===================== MENU FUNCTIONS =====================
